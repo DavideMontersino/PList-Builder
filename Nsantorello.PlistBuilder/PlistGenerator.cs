@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Collections;
 using System.Dynamic;
 
-namespace Nsantorello.PlistBuilder
+namespace PListBuilder
 {
     public static class PlistGenerator
     {

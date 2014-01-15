@@ -3,12 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsantorello.PlistBuilder", "Nsantorello.PlistBuilder\Nsantorello.PlistBuilder.csproj", "{0DACBF2F-D5C9-4F6F-8091-C1172490A109}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlistBuilder", "Nsantorello.PlistBuilder\PlistBuilder.csproj", "{0DACBF2F-D5C9-4F6F-8091-C1172490A109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nsantorello.PlistBuilder.Test", "Nsantorello.PlistBuilder.Test\Nsantorello.PlistBuilder.Test.csproj", "{271753F3-81F7-420A-9DFC-54B42C83EB06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlistBuilder.Test", "Nsantorello.PlistBuilder.Test\PlistBuilder.Test.csproj", "{271753F3-81F7-420A-9DFC-54B42C83EB06}"
 EndProject
 Global
-
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

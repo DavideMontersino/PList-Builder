@@ -4,7 +4,7 @@ using System.Dynamic;
 using System.Linq;
 using System.Text;
 
-namespace Nsantorello.PlistBuilder.Test
+namespace PListBuilder.Test
 {
     class Program
     {

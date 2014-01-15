@@ -77,9 +77,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Nsantorello.PlistBuilder\Nsantorello.PlistBuilder.csproj">
+    <ProjectReference Include="..\Nsantorello.PlistBuilder\PlistBuilder.csproj">
       <Project>{0DACBF2F-D5C9-4F6F-8091-C1172490A109}</Project>
-      <Name>Nsantorello.PlistBuilder</Name>
+      <Name>PlistBuilder</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
